@@ -1,0 +1,14 @@
+C:\Users\nutan\source\repos\copycon\copycon\bin\Debug\net8.0\copycon.exe
+C:\Users\nutan\source\repos\copycon\copycon\bin\Debug\net8.0\copycon.deps.json
+C:\Users\nutan\source\repos\copycon\copycon\bin\Debug\net8.0\copycon.runtimeconfig.json
+C:\Users\nutan\source\repos\copycon\copycon\bin\Debug\net8.0\copycon.dll
+C:\Users\nutan\source\repos\copycon\copycon\bin\Debug\net8.0\copycon.pdb
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\copycon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\copycon.AssemblyInfoInputs.cache
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\copycon.AssemblyInfo.cs
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\copycon.csproj.CoreCompileInputs.cache
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\copycon.dll
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\refint\copycon.dll
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\copycon.pdb
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\copycon.genruntimeconfig.cache
+C:\Users\nutan\source\repos\copycon\copycon\obj\Debug\net8.0\ref\copycon.dll
