@@ -1,0 +1,14 @@
+C:\Users\nutan\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\nutan\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\nutan\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\nutan\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\nutan\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll
