@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nutan\\source\\repos\\copycon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263FDF4F-5EDB-42B8-9B7B-983FE93ED693}|copycon\\copycon.csproj|c:\\users\\nutan\\source\\repos\\copycon\\copycon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263FDF4F-5EDB-42B8-9B7B-983FE93ED693}|copycon\\copycon.csproj|solutionrelative:copycon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263FDF4F-5EDB-42B8-9B7B-983FE93ED693}|copycon\\copycon.csproj|c:\\users\\nutan\\source\\repos\\copycon\\copycon\\staticcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263FDF4F-5EDB-42B8-9B7B-983FE93ED693}|copycon\\copycon.csproj|solutionrelative:copycon\\staticcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticCls.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\copycon\\copycon\\StaticCls.cs",
+              "RelativeDocumentMoniker": "copycon\\StaticCls.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\copycon\\copycon\\StaticCls.cs",
+              "RelativeToolTip": "copycon\\StaticCls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:26:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\copycon\\copycon\\Program.cs",
+              "RelativeDocumentMoniker": "copycon\\Program.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\copycon\\copycon\\Program.cs",
+              "RelativeToolTip": "copycon\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:13:30.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

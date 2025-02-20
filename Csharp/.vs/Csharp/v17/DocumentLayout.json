@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nutan\\source\\repos\\Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A428451-9962-43EC-9C3E-DB8DEB11CE28}|Csharp\\Csharp.csproj|c:\\users\\nutan\\source\\repos\\csharp\\csharp\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A428451-9962-43EC-9C3E-DB8DEB11CE28}|Csharp\\Csharp.csproj|solutionrelative:csharp\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A428451-9962-43EC-9C3E-DB8DEB11CE28}|Csharp\\Csharp.csproj|c:\\users\\nutan\\source\\repos\\csharp\\csharp\\demoproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A428451-9962-43EC-9C3E-DB8DEB11CE28}|Csharp\\Csharp.csproj|solutionrelative:csharp\\demoproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoProject.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\Csharp\\Csharp\\DemoProject.cs",
+              "RelativeDocumentMoniker": "Csharp\\DemoProject.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\Csharp\\Csharp\\DemoProject.cs",
+              "RelativeToolTip": "Csharp\\DemoProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T07:33:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\Csharp\\Csharp\\Employees.cs",
+              "RelativeDocumentMoniker": "Csharp\\Employees.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\Csharp\\Csharp\\Employees.cs",
+              "RelativeToolTip": "Csharp\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T07:09:03.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
