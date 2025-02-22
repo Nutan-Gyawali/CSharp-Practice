@@ -12,3 +12,4 @@ C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\refint\inhe
 C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
 C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
 C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll
+C:\Users\nutan\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json

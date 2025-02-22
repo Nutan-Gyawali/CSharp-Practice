@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nutan\\source\\repos\\inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\hiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\hiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\opover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\opover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\dynapoly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\dynapoly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Hiding.cs",
-              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Hiding.cs",
-              "RelativeDocumentMoniker": "inheritance\\Hiding.cs",
-              "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Hiding.cs",
-              "RelativeToolTip": "inheritance\\Hiding.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Interface1.cs",
+              "RelativeDocumentMoniker": "inheritance\\Interface1.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Interface1.cs",
+              "RelativeToolTip": "inheritance\\Interface1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:27:35.974Z",
+              "WhenOpened": "2025-02-22T06:00:16.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Shape.cs",
+              "RelativeDocumentMoniker": "inheritance\\Shape.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Shape.cs",
+              "RelativeToolTip": "inheritance\\Shape.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:39:48.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dynapoly.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\dynapoly.cs",
+              "RelativeDocumentMoniker": "inheritance\\dynapoly.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\dynapoly.cs",
+              "RelativeToolTip": "inheritance\\dynapoly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:01:26.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "opover.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\opover.cs",
+              "RelativeDocumentMoniker": "inheritance\\opover.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\opover.cs",
+              "RelativeToolTip": "inheritance\\opover.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:27:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Program.cs",
               "RelativeDocumentMoniker": "inheritance\\Program.cs",
               "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Program.cs",
               "RelativeToolTip": "inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T07:17:37.136Z",
               "EditorCaption": ""
