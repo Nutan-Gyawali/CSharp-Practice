@@ -8,7 +8,7 @@
 //{
 //    internal class excep
 //    {
-        
+
 //       using inheritance;
 //using System.Reflection.Metadata.Ecma335;
 
@@ -69,15 +69,16 @@
 //    }
 
 
-
-
-
-
-
-
-
-
-
-
 //}
 //}
+
+
+
+
+
+
+
+
+
+
+
