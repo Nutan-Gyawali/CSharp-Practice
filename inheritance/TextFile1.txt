@@ -1,0 +1,146 @@
+﻿using inheritance;
+
+internal class Program :Interface2, Interface3
+{
+    private static void Main(string[] args)
+    {
+        public void Display()
+    {
+        Console.WriteLine("hello world");
+    }
+
+    //ImplementationClass a = new ImplementationClass();
+    //a.add(10, 20);
+    //Console.WriteLine(a.add(10, 20));
+
+
+    //Rectangle r = new Rectangle(12.1, 12.2);
+    //Circle c = new Circle(23.2);
+
+    //Console.WriteLine(r.GetArea());
+    //Console.WriteLine(c.GetArea());
+
+
+    //Square square1 = new Square(10);
+    //Square square2 = new Square(20);
+
+    //int area = square1 * square1; ;
+    //Console.WriteLine(area);
+
+    //Rectangle r = new Rectangle(10, 7);
+    //double a = r.area();
+    //Console.WriteLine("Area: {0}", a);
+
+    //Square s = new Square(20, 7);
+    //double v = s.area();
+    //Console.WriteLine("Area: {0}", v);
+
+
+    //int x = 10;
+    //int y = 20;
+    //int z = x + y;
+    //Console.WriteLine(z);
+    //overridden o = new overridden();
+    //o.nutan();
+
+    //second s = new second();
+    //s.nutan();
+
+    //Gyawali g = new Gyawali();
+    //g.Nutang2();
+
+}
+
+       
+
+
+
+
+//public class Person
+//{
+//   public int i;
+//   public string Name, Address;
+//}
+
+//public class Student : Person
+//{
+//    int Class;
+//    char Grade;
+//    float Marks, Fees;
+//}
+
+//public class Staff : Person
+//{
+//    public double Salary;
+//    public string Designation;
+//}
+
+ImulitpleInt.cs:
+
+ ImultipleInt n = new ImultipleInt();
+
+        n.Display();
+
+        Interface2 i2 = n;
+        i2.Say();
+
+        Interface3 i3 = n;
+        i3.Say();
+
+
+        / Dog d = new Dog();
+        // Cat c = new Cat();
+        // d.Says();
+        // c.Says();
+        ////Abs abs = new Abs();
+        //// abs.Display();
+        ///
+
+        using System;
+
+namespace inheritance
+{
+    struct Struture
+    {
+        public int i;
+
+        public Struture(int i)
+        {
+           this.i = i;
+        }
+
+        public void display()
+        {
+            Console.WriteLine(i);
+        }
+
+
+        static void Main()
+        {
+            Struture s = new Struture(10);
+            s.display();
+        }
+    }
+}
+
+enum
+// Dog d = new Dog();
+        // Cat c = new Cat();
+        // d.Says();
+        // c.Says();
+        ////Abs abs = new Abs();
+        //// abs.Display();
+        ///
+
+        //Days d = (Days)4;
+        //Days d1 = Days.monday;
+        //Console.WriteLine(d);
+
+
+        //Console.WriteLine((int)d);
+
+        int weeks = (int)Dayss.mon;
+        int weeke = (int)Dayss.saturday;
+
+        Console.WriteLine("Monday: {0}", weeks);
+        Console.WriteLine("Friday: {0}", weeke);
