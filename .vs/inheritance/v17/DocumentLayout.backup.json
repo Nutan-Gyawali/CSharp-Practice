@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\dict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\dict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|c:\\users\\nutan\\source\\repos\\inheritance\\inheritance\\gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B10F7B-CF97-45CA-825B-CEF60DC545A4}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "inheritance\\Program.cs",
               "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\Program.cs",
               "RelativeToolTip": "inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T15:37:28.893Z",
               "IsPinned": true,
@@ -37,6 +41,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "dict.cs",
+              "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\dict.cs",
+              "RelativeDocumentMoniker": "inheritance\\dict.cs",
+              "ToolTip": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\dict.cs",
+              "RelativeToolTip": "inheritance\\dict.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:46:54.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "gen.cs",
               "DocumentMoniker": "C:\\Users\\nutan\\source\\repos\\inheritance\\inheritance\\gen.cs",
               "RelativeDocumentMoniker": "inheritance\\gen.cs",
@@ -44,8 +60,7 @@
               "RelativeToolTip": "inheritance\\gen.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:58:16.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:58:16.649Z"
             }
           ]
         }
